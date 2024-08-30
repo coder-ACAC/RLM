@@ -8,4 +8,4 @@ $ python main.py
 ```
 
 ### Downstream tasks
-Pre-trained features can be used for downstream tasks
+Pre-trained features can be used for downstream tasks.
